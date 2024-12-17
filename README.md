@@ -2,9 +2,6 @@
 Writeup for TryHackMe Advanced Splunk: Dashboards and Reports - Data aggregation, visualization, and proactive alerting in a SOC enviornment.
 
 By Ramyar Daneshgar
----
-
-# **Splunk Lab Write-Up: Dashboards and Reports**
 
 ## **1. Introduction**
 This write-up details my approach to organizing data, creating reports, building dashboards, and setting up alerts within Splunk as part of the **SOC Level 2 - Advanced Splunk** module. The objective was to simulate a real-world SOC environment where data aggregation, visualization, and proactive alerting are critical for identifying and responding to security incidents. 
